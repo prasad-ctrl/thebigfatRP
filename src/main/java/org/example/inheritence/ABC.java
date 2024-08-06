@@ -21,6 +21,7 @@ class B extends A{
     B(int i){
         System.out.println("B"+i);
     }
+
 }
 class C extends B{
      C(){
